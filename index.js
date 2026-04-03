@@ -5,3 +5,7 @@ function add(a, b) {
   return a + b;
 }
 add(x, y);
+
+function sum(s,y){
+  return x + y
+}
