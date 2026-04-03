@@ -6,6 +6,6 @@ function add(a, b) {
 }
 add(x, y);
 
-function sum(s,y){
-  return x + y
+function sum(s, y, z) {
+  return x + y + z;
 }
