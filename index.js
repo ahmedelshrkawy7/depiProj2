@@ -13,3 +13,4 @@ function sum(s, y, z) {
 //  merge
 // this is from github
 // this is from github
+function hamada() {}
